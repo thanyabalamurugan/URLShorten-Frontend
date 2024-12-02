@@ -25,3 +25,5 @@ A shortened URL will be displayed.
 3. Access the shortened URL:
 Click the displayed shortened URL.
 It should redirect you to the original long URL.
+
+Example input ----> https://www.google.com
